@@ -93,3 +93,11 @@ Blue signal (it's dark... sorry)  is the signal produced by the original Searle'
 ![](https://1.bp.blogspot.com/-fwFtGPbVKYY/YC08uQwjyWI/AAAAAAACKHc/FCEmRSYtLG0cXIXtxGl_CXDEQHExYZ5RACLcBGAsYHQ/s320/unnamed%2B%25281%2529.png)
 
 https://wilco2009.blogspot.com/2017/07/project-double-clon-zx80zx81-reading.html
+
+## ACKNOLEDGEMENTS
+- Jim Westwood - To Design the original machine
+- Clive Sinclair - To introduce me in the computers world.
+- Grant Searle - To Grant Searle for his excellent work, he was the origin of mine. 
+- Jose_Leandro, habbisoft - (in special way to jose_leandro) To help me in de debugging phase
+- alvaroalea - for create a amaizing 3d printed case.
+- carmeloco,flopping,sinclair200 - for supporting me in the initial phase
