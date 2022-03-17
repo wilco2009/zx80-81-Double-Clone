@@ -1,5 +1,9 @@
 Copyright © 2022 Alejandro Valero Sebastián
 
+This work is published under the Creative Commons CC-BY-SA 4.0 license. You can see an overview of the license here: https://creativecommons.org/licenses/by-sa/4.0/
+
+Full legal text follows.
+
 # Creative Commons Attribution-ShareAlike 4.0 International
 
 Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
