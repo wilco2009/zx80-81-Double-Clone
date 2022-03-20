@@ -99,5 +99,5 @@ https://wilco2009.blogspot.com/2017/07/project-double-clon-zx80zx81-reading.html
 - Clive Sinclair - For introducing me in the computers world.
 - Grant Searle - For his excellent work, he was the origin of mine. 
 - Jose_Leandro, habbisoft - (in special way to jose_leandro) For helpping me in de debugging phase
-- alvaroalea - to create a amaizing 3d printed case.
+- alvaroalea - For create an amaizing 3d printed case.
 - carmeloco,flopping,sinclair200 - for supporting me in the initial phase
