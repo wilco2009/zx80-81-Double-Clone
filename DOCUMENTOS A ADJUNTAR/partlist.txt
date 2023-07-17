@@ -1,0 +1,241 @@
+Partlist
+
+Exported from zx80_build039.routed.brd at 14/05/2023 19:09
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package      Library        Position (mm)         Orientation
+
+.        TA_DK          TA_DK        dome-key       (124.46 10.16)        R0
+1        TA_DK          TA_DK        dome-key       (10.16 52.705)        R0
+1A                      EDGEPIN      wirepad        (10.16 200.025)       R0
+1B                      EDGEPIN      wirepad        (10.16 200.025)       MR0
+2        TA_DK          TA_DK        dome-key       (23.8125 52.705)      R0
+2A                      EDGEPIN      wirepad        (12.7 200.025)        R0
+2B                      EDGEPIN      wirepad        (12.7 200.025)        MR0
+3        TA_DK          TA_DK        dome-key       (38.1 52.705)         R0
+4        TA_DK          TA_DK        dome-key       (52.07 52.705)        R0
+4A                      EDGEPIN      wirepad        (17.78 200.025)       R0
+4B                      EDGEPIN      wirepad        (17.78 200.025)       MR0
+5        TA_DK          TA_DK        dome-key       (66.04 52.705)        R0
+5A                      EDGEPIN      wirepad        (20.32 200.025)       R0
+5B                      EDGEPIN      wirepad        (20.32 200.025)       MR0
+6        TA_DK          TA_DK        dome-key       (80.01 52.705)        R0
+6A                      EDGEPIN      wirepad        (22.86 200.025)       R0
+6B                      EDGEPIN      wirepad        (22.86 200.025)       MR0
+7        TA_DK          TA_DK        dome-key       (93.98 52.705)        R0
+7A                      EDGEPIN      wirepad        (25.4 200.025)        R0
+7B                      EDGEPIN      wirepad        (25.4 200.025)        MR0
+8        TA_DK          TA_DK        dome-key       (107.95 52.705)       R0
+8A                      EDGEPIN      wirepad        (27.94 200.025)       R0
+8B                      EDGEPIN      wirepad        (27.94 200.025)       MR0
+9        TA_DK          TA_DK        dome-key       (121.92 52.705)       R0
+9A                      EDGEPIN      wirepad        (30.48 200.025)       R0
+9B                      EDGEPIN      wirepad        (30.48 200.025)       MR0
+10A                     EDGEPIN      wirepad        (33.02 200.025)       R0
+10B                     EDGEPIN      wirepad        (33.02 200.025)       MR0
+11A                     EDGEPIN      wirepad        (35.56 200.025)       R0
+11B                     EDGEPIN      wirepad        (35.56 200.025)       MR0
+12A                     EDGEPIN      wirepad        (38.1 200.025)        R0
+12B                     EDGEPIN      wirepad        (38.1 200.025)        MR0
+13A                     EDGEPIN      wirepad        (40.64 200.025)       R0
+13B                     EDGEPIN      wirepad        (40.64 200.025)       MR0
+14A                     EDGEPIN      wirepad        (43.18 200.025)       R0
+14B                     EDGEPIN      wirepad        (43.18 200.025)       MR0
+15A                     EDGEPIN      wirepad        (45.72 200.025)       R0
+15B                     EDGEPIN      wirepad        (45.72 200.025)       MR0
+16A                     EDGEPIN      wirepad        (48.26 200.025)       R0
+16B                     EDGEPIN      wirepad        (48.26 200.025)       MR0
+17A                     EDGEPIN      wirepad        (50.8 200.025)        R0
+17B                     EDGEPIN      wirepad        (50.8 200.025)        MR0
+18A                     EDGEPIN      wirepad        (53.34 200.025)       R0
+18B                     EDGEPIN      wirepad        (53.34 200.025)       MR0
+19A                     EDGEPIN      wirepad        (55.88 200.025)       R0
+19B                     EDGEPIN      wirepad        (55.88 200.025)       MR0
+20A                     EDGEPIN      wirepad        (58.42 200.025)       R0
+20B                     EDGEPIN      wirepad        (58.42 200.025)       MR0
+21A                     EDGEPIN      wirepad        (60.96 200.025)       R0
+21B                     EDGEPIN      wirepad        (60.96 200.025)       MR0
+22A                     EDGEPIN      wirepad        (63.5 200.025)        R0
+22B                     EDGEPIN      wirepad        (63.5 200.025)        MR0
+23A                     EDGEPIN      wirepad        (66.04 200.025)       R0
+23B                     EDGEPIN      wirepad        (66.04 200.025)       MR0
+A        TA_DK          TA_DK        dome-key       (19.05 24.13)         R0
+B        TA_DK          TA_DK        dome-key       (82.55 10.16)         R0
+C        TA_DK          TA_DK        dome-key       (54.61 10.16)         R0
+C1       47nF           C025-024X044 resistor       (38.1 132.08)         R180
+C2       47nF           C025-024X044 resistor       (30.48 99.06)         R0
+C3       47nF           C025-024X044 resistor       (15.24 99.06)         R180
+C4       47nF           C025-024X044 resistor       (76.835 133.35)       R180
+C5       47nF           C025-024X044 resistor       (152.0825 79.375)     R0
+C6       100nF          C025-024X044 resistor       (139.7 99.06)         R180
+C7       100pF          C025-024X044 resistor       (43.18 185.42)        R90
+C8       22uF           E2,5-5       resistor       (12.7 189.23)         R0
+C9       47pF           C050-024X044 resistor       (34.29 104.14)        R270
+C10      1uF            E2,5-5       resistor       (74.93 144.78)        R0
+C11      47pF           C025-024X044 resistor       (46.355 119.0625)     R0
+C12      100nF          C025-024X044 resistor       (146.05 175.26)       R270
+C13      47nF           C025-024X044 resistor       (123.19 186.69)       R180
+C14      1nF            C025-024X044 resistor       (116.84 186.69)       R0
+C15      220pF          C025-024X044 resistor       (145.7325 82.55)      R0
+C16      47nF           C025-024X044 resistor       (125.73 148.59)       R90
+C17      47nF           C025-024X044 resistor       (130.81 126.365)      R180
+C18      10nF           C025-024X044 resistor       (146.05 181.61)       R270
+C19      47nF           C025-024X044 resistor       (107.95 176.53)       R0
+C20      47nF           C025-024X044 resistor       (118.11 126.365)      R0
+C23      100uF          E2,5-5       resistor       (12.7 175.26)         R180
+C24      100nF          C050-025X075 resistor       (60.96 148.59)        R90
+C25      100pF          C025-024X044 resistor       (85.725 92.3925)      R90
+C26      100pF          C050-024X044 resistor       (129.8575 97.4725)    R90
+C27      470pf          C050-024X044 resistor       (118.11 104.14)       R180
+CL0                     1,6/0,8      wirepad        (56.8325 66.9925)     R0
+CL2                     1,6/0,8      wirepad        (17.4625 66.9925)     R0
+CL3                     1,6/0,8      wirepad        (15.24 66.9925)       R0
+CL4                     1,6/0,8      wirepad        (13.0175 66.9925)     R0
+COL0                    1,6/0,8      wirepad        (109.22 76.835)       R0
+COL1                    1,6/0,8      wirepad        (111.76 76.835)       R0
+COL1'                   1,6/0,8      wirepad        (27.305 67.31)        R0
+COL2                    1,6/0,8      wirepad        (114.3 76.835)        R0
+COL3                    1,6/0,8      wirepad        (116.84 76.835)       R0
+COL4                    1,6/0,8      wirepad        (119.38 76.835)       R0
+D        TA_DK          TA_DK        dome-key       (48.26 24.4475)       R0
+D1       1N4148DO35-7   DO35-7       diode          (133.35 187.96)       R0
+D3       1N4148DO35-7   DO35-7       diode          (12.7 73.9775)        R180
+D4       1N4148DO35-7   DO35-7       diode          (25.354640625 73.9775) R180
+D5       1N4148DO35-7   DO35-7       diode          (38.00928125 73.9775) R180
+D6       1N4148DO35-7   DO35-7       diode          (50.663921875 73.9775) R180
+D7       1N4148DO35-7   DO35-7       diode          (63.3185625 73.9775)  R180
+D8       1N4148DO35-7   DO35-7       diode          (75.973203125 73.9775) R180
+D9       1N4148DO35-7   DO35-7       diode          (88.62784375 73.9775) R180
+D10      1N4148DO35-7   DO35-7       diode          (101.282484375 73.9775) R180
+D11      NTSC ONLY      DO35-7       diode          (27.94 133.6675)      R0
+D13      1N4007         DO41-10      diode          (8.255 179.07)        R270
+E        TA_DK          TA_DK        dome-key       (44.45 38.735)        R0
+F        TA_DK          TA_DK        dome-key       (62.23 24.4475)       R0
+G        TA_DK          TA_DK        dome-key       (76.2 24.4475)        R0
+H        TA_DK          TA_DK        dome-key       (90.17 24.4475)       R0
+I        TA_DK          TA_DK        dome-key       (114.3 38.735)        R0
+IC1      Z80A           DIL40        zilog          (62.23 147.32)        R270
+IC3      CY62256LL-PC   DIL28-6      memory-sram    (19.05 152.4)         R270
+IC4      W27C512        DIL28        memory         (114.3 156.21)        R270
+IC5      74S373N        DIL20        74xx-eu        (78.74 119.38)        R270
+IC6      74157N         DIL16        74xx-eu        (95.25 163.83)        R270
+IC7      74157N         DIL16        74xx-eu        (91.44 116.84)        R270
+IC8      74157N         DIL16        74xx-eu        (81.28 163.83)        R270
+IC9      74165N         DIL16        74xx-eu        (35.56 120.65)        R270
+IC10     74LS365N       DIL16        74xx-eu        (19.05 120.65)        R270
+IC11     74LS00N        DIL14        74xx-eu        (93.98 88.9)          R270
+IC12     74LS00N        DIL14        74xx-eu        (107.95 88.9)         R270
+IC13     74LS04N        DIL14        74xx-eu        (60.96 88.9)          R270
+IC14     74LS05N        DIL14        74xx-eu        (15.24 88.9)          R270
+IC15     74LS05N        DIL14        74xx-eu        (30.48 88.9)          R270
+IC16     74LS10N        DIL14        74xx-eu        (45.72 88.9)          R270
+IC17     74LS32N        DIL14        74xx-eu        (77.47 88.9)          R270
+IC18     74LS74N        DIL14        74xx-eu        (122.555 88.5825)     R270
+IC19     74LS74N        DIL14        74xx-eu        (105.41 115.57)       R270
+IC20     74LS86N        DIL14        74xx-eu        (137.16 88.9)         R270
+IC21     74LS93N        DIL14        74xx-eu        (96.52 142.24)        R270
+IC22     7805T          TO220H       linear         (24.13 181.61)        R270
+IC23     74LS00N        DIL14        74xx-eu        (116.84 115.57)       R270
+J        TA_DK          TA_DK        dome-key       (104.14 24.4475)      R0
+J1                      SPC4077      con-jack       (120.65 194.945)      R270
+JP2      VIDEO_MODE     JP2          jumper         (57.15 113.03)        R90
+K        TA_DK          TA_DK        dome-key       (118.11 24.4475)      R0
+L        TA_DK          TA_DK        dome-key       (132.08 24.4475)      R0
+M        TA_DK          TA_DK        dome-key       (110.49 10.16)        R0
+N        TA_DK          TA_DK        dome-key       (96.52 10.16)         R0
+O        TA_DK          TA_DK        dome-key       (135.89 52.705)       R0
+O'       TA_DK          TA_DK        dome-key       (128.27 38.735)       R0
+P        TA_DK          TA_DK        dome-key       (142.24 38.735)       R0
+POWERLED RED            LED3MM       led            (17.78 105.41)        R180
+Q        TA_DK          TA_DK        dome-key       (16.51 38.735)        R0
+Q1       BC548          TO92-EBC     transistor-npn (41.91 177.8)         R180
+R        TA_DK          TA_DK        dome-key       (58.42 38.735)        R0
+R1       10K            0204/7       resistor       (19.05 132.08)        R180
+R2       330            0204/7       resistor       (19.05 109.22)        R0
+R3       1K             0204/7       resistor       (22.86 99.06)         R0
+R4       1K             0204/7       resistor       (46.99 138.43)        R0
+R5       1K             0204/7       resistor       (46.99 135.255)       R0
+R6       1K             0204/7       resistor       (46.99 143.51)        R0
+R7       1K             0204/7       resistor       (46.99 153.67)        R0
+R8       1K             0204/7       resistor       (36.83 138.43)        R0
+R9       1K             0204/7       resistor       (33.02 140.97)        R0
+R10      1K             0204/7       resistor       (33.02 143.51)        R0
+R11      1K             0204/7       resistor       (33.02 146.05)        R0
+R12      1K             0204/7       resistor       (46.99 130.81)        R0
+R13      47K            0204/7       resistor       (26.035 123.19)       R270
+R14      47K            0204/7       resistor       (11.43 125.73)        R270
+R15      47K            0204/7       resistor       (60.96 105.41)        R180
+R16      47K            0204/7       resistor       (26.035 110.49)       R90
+R17      47K            0204/7       resistor       (8.255 125.73)        R270
+R18      1K             0204/7       resistor       (107.95 128.27)       R180
+R19      2K2            0204/7       resistor       (115.8875 85.09)      R90
+R20      330            0204/7       resistor       (46.99 158.75)        R180
+R21      220K           0204/7       resistor       (78.74 187.96)        R180
+R22      1K             0204/7       resistor       (69.85 115.57)        R270
+R23      1K             0204/7       resistor       (46.99 128.27)        R180
+R24      1K             0204/7       resistor       (86.36 82.55)         R270
+R25      470            0204/7       resistor       (46.6725 114.3)       R0
+R26      10K            0204/7       resistor       (40.64 187.96)        R270
+R27      1K             0204/7       resistor       (145.415 90.17)       R90
+R28      47K            0204/7       resistor       (53.34 91.44)         R90
+R29      180            0204/7       resistor       (140.97 185.42)       R0
+R30      900            0204/7       resistor       (96.52 196.85)        R180
+R31      4k7            0204/7       resistor       (102.87 185.1025)     R0
+R32      390            0204/7       resistor       (96.52 199.39)        R180
+R33      4k7            0204/7       resistor       (102.87 182.5625)     R0
+R34      1K             0204/7       resistor       (113.03 185.42)       R90
+R35      100K           0204/7       resistor       (83.82 149.86)        R0
+R36      2K7            0204/7       resistor       (130.81 185.42)       R180
+R37      4k7            0204/7       resistor       (102.87 180.0225)     R0
+R41      680            0204/7       resistor       (26.67 104.775)       R180
+R42      680            0204/7       resistor       (139.7 104.14)        R180
+R43      680            0204/7       resistor       (118.11 177.8)        R180
+R45      330            0204/7       resistor       (81.915 100.6475)     R0
+R46      680-6K8        0204/7       resistor       (130.175 87.9475)     R90
+R47      0              0204/7       resistor       (129.2225 104.14)     R180
+ROW0                    1,6/0,8      wirepad        (127 78.74)           R90
+ROW1                    1,6/0,8      wirepad        (129.54 78.74)        R90
+ROW2                    1,6/0,8      wirepad        (132.08 78.74)        R90
+ROW3                    1,6/0,8      wirepad        (134.62 78.74)        R90
+ROW4                    1,6/0,8      wirepad        (137.16 78.74)        R90
+ROW5                    1,6/0,8      wirepad        (139.7 78.74)         R90
+ROW6                    1,6/0,8      wirepad        (142.24 78.74)        R90
+ROW7                    1,6/0,8      wirepad        (144.78 78.74)        R90
+RW0                     1,6/0,8      wirepad        (46.99 66.9925)       R0
+RW1                     1,6/0,8      wirepad        (34.12126875 67.31)   R0
+RW2                     1,6/0,8      wirepad        (61.9125 66.9925)     R0
+RW3                     1,6/0,8      wirepad        (21.59 67.31)         R0
+RW4                     1,6/0,8      wirepad        (74.6125 66.9925)     R0
+RW5                     1,6/0,8      wirepad        (8.5725 67.31)        R0
+RW6                     1,6/0,8      wirepad        (85.09 66.9925)       R0
+RW7                     1,6/0,8      wirepad        (97.4725 66.9925)     R0
+S        TA_DK          TA_DK        dome-key       (34.29 24.4475)       R0
+S1                      JP2          jumper         (11.43 105.41)        R90
+S3       RESET          B3F-10XX     switch-omron   (106.68 192.405)      R180
+S4       PIN23A         JP2          jumper         (120.015 181.2925)    R0
+SHIFT    TA_DK          TA_DK        dome-key       (12.7 10.16)          R0
+SPACE    TA_DK          TA_DK        dome-key       (138.43 10.16)        R0
+SW1      TA_DK          TA_DK        dome-key       (146.05 24.13)        R0
+SW2      ROM SEL        EDG-03       special        (92.3925 182.5625)    MR270
+T        TA_DK          TA_DK        dome-key       (72.39 38.735)        R0
+U        TA_DK          TA_DK        dome-key       (100.33 38.735)       R0
+U1       74HC393N       DIL14        74xx-eu        (134.62 157.48)       R0
+U2       74AC11N        DIL14        74xx-eu        (129.54 137.16)       R270
+U3       74LS32N        DIL14        74xx-eu        (134.62 177.8)        R0
+U4       74LS00N        DIL14        74xx-eu        (142.24 137.16)       R270
+U5       74LS08N        DIL14        74xx-eu        (130.81 115.57)       R270
+U6       74LS02N        DIL14        74xx-eu        (143.51 115.57)       R270
+V        TA_DK          TA_DK        dome-key       (68.58 10.16)         R0
+W        TA_DK          TA_DK        dome-key       (30.48 38.735)        R0
+X        TA_DK          TA_DK        dome-key       (40.64 10.16)         R0
+X2       EAR            PG203J       con-hirschmann (134.62 196.215)      R270
+X3       MIC            PG203J       con-hirschmann (148.59 196.215)      R270
+X4       POWER          PG203J       con-hirschmann (120.65 196.215)      R270
+X5       736880-49      736880-49    con-conrad     (80.645 196.85)       R270
+XTAL     6.5MHz         HC49U        crystal        (151.13 88.9)         R90
+Y        TA_DK          TA_DK        dome-key       (86.36 38.735)        R0
+Z        TA_DK          TA_DK        dome-key       (26.67 10.16)         R0
+ZX81LED  YELLOW         LED3MM       led            (146.05 99.06)        R270
