@@ -1,0 +1,7 @@
+Use this 3D model to properly arrange 40 metal domes, each 12mm in size, on the PCB. The unit 'mm' in the name of the 3D models represents their thickness. Use the appropriate one according to the height of the metal dome.
+
+If the metal domes you intend to use are not compatible with the 3D models, modify the provided f3d file. The following user parameters can be easily modified:
+
+SLOT_SIZE: Length of the protrusion for fixing the metal dome.
+HEIGHT: Thickness of the layer.
+
